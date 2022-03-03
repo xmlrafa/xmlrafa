@@ -1,6 +1,6 @@
 ### Olá, mundo! 🌎 ####
 
-Eu sou Rafael, geralmente chamado de Rafael de Jesus (Nome comum :/)
+Eu sou Rafael, geralmente chamado de Rafael de Jesus (Nome comum rs)
 
 Formado em Sistemas de Informação, inicio agora minha carreira em Desenvolvimento Java. Estou usando o GitHub para postar meus trabalhos e criar um Portfólio.
 
