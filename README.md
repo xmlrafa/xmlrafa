@@ -3,6 +3,12 @@
 Eu sou Rafael, geralmente chamado de Rafael de Jesus (Nome comum rs)
 
 Formado em Sistemas de Informação, inicio agora minha carreira em Desenvolvimento Java. Estou usando o GitHub para postar meus trabalhos e criar um Portfólio.
+Um pouco sobre meus conhecimentos:
+- Java;
+- SpringBoot;
+- Jpa Hibernate;
+- Sql, Mysql, PLSql, Postgree;
+- Maven, Postman, git;
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmlrafa&show_icons=true&theme=tokyonight">
