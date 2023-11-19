@@ -1,8 +1,8 @@
 ### Olá, mundo! 🌎 ####
 
-Eu sou Rafael, geralmente chamado de Rafael de Jesus (Nome comum rs)
+Eu sou Rafael!
 
-Formado em Sistemas de Informação, inicio agora minha carreira em Desenvolvimento Java. Estou usando o GitHub para postar meus trabalhos e criar um Portfólio.
+Sou Analista de Sistemas. Formado em Sistemas de Informação. Estou usando o GitHub para postar meus trabalhos e criar um Portfólio.
 Um pouco sobre meus conhecimentos:
 - Java;
 - SpringBoot;
